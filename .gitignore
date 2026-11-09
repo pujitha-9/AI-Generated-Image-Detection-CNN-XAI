@@ -1,0 +1,23 @@
+# Dataset
+Dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model files
+model/*.h5
+model/*.hdf5
+model/*.npy
+model/*.keras
+
+# Django database
+db.sqlite3
+
+# Temporary files
+temp/
